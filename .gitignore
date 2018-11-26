@@ -5,6 +5,12 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
+# Other folder
+arcgdfconvertor
+Data
+geomapzen
+gtfsanalyst
+
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
